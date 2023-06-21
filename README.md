@@ -2,10 +2,6 @@
 
 A simple authentication page with face recognition and face verification built with ReactJS and Face-api.js.
 
-## Demo
-
-- [https://demo-mmsa2022.albertovalerio.com/](https://demo-mmsa2022.albertovalerio.com/)
-
 ## Features
 
 - **Face recognition and verification (Login/Register)**
